@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/M28bcV0/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg_color": "#ADD8E6",
+    "card_bg_color": "#ADD8E6",
+    "text_button_bg_color": "#0052FF",
+    "description": "For children, clean water means everything. It means staying healthy from diseases. It means having enough food to eat. It means the opportunity to go to school and improve their futures. Water, for children, means life",
+    "price": 290
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/XXwhzxb/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg_color": "#FFA1A4",
+    "card_bg_color": "#FFA1A4",
+    "text_button_bg_color": "#FF444A",
+    "description": "Education is all about gathering knowledge and training the mind to think and apply reasoning to solve problems. It is the foundation on which any person, society, or country progresses. While our country has grown and developed over time, we may take the value of education for granted.",
+    "price": 290
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/k8DVDdR/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg_color": "#AEDA8B",
+    "card_bg_color": "#AEDA8B",
+    "text_button_bg_color": "#79C23F",
+    "description": "In affiliation with the NGO, Society of Community Outreach and Training (SCOT) for my Internship DY UBD, I have planned a mini project, “Clothes Donation Drive”, as one of the approaches to assist and lessen the burden of the families in need in Brunei-Muara District. This project is in line with Messenger of Peace's initiatives to shape the Better World Framework.",
+    "price": 290
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/wy4SCLr/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg_color": "#FAA990",
+    "card_bg_color": "#FAA990",
+    "text_button_bg_color": "#F87147",
+    "description": "Food is the fuel that keeps us running throughout the day, and it also supports the body’s metabolic process and ensures we remain healthy. Children need to understand the importance of food to build healthy eating habits in the long term. ",
+    "price": 290
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/km3KWHy/Community-food.jpg",
+    "title": "Community Meal Program",
+    "category": "Food",
+    "category_bg_color": "#FAA990",
+    "card_bg_color": "#FAA990",
+    "text_button_bg_color": "#F87147",
+    "description": "Join our community meal program and make a difference in the lives of those less fortunate. Your contribution helps provide hot, nutritious meals to individuals and families struggling with food insecurity. Together, we can ensure that no one in our community goes to bed hungry.",
+    "price": 290
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/H4yHC6Z/warmth-all.jpg",
+    "title": "Winter Clothing Drive",
+    "category": "Clothing",
+    "category_bg_color": "#AEDA8B",
+    "card_bg_color": "#AEDA8B",
+    "text_button_bg_color": "#79C23F",
+    "description": "Join our community effort to provide warm clothing to those in need this winter. As temperatures drop, many individuals and families struggle to stay warm due to limited resources. You can make a significant difference by donating gently used or new winter clothing items such as coats, sweaters, scarves, gloves, and hats.",
+    "price": 290
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co/F5MFB7P/Youth-Education.jpg",
+    "title": " Education for Youth",
+    "category": "Education",
+    "category_bg_color": "#FFA1A4",
+    "card_bg_color": "#FFA1A4",
+    "text_button_bg_color": "#FF444A",
+    "description": "This program aims to provide quality education to economically disadvantaged children and teenagers, ensuring they have access to essential learning resources, qualified teachers, and a supportive environment. Through partnerships with local schools and community organizations, EmpowerED seeks to break the cycle of poverty by offering free tutoring, scholarships, and mentorship to help these young learners reach their full potential.",
+    "price": 290
+  },
+  {
+    "id": 8,
+    "picture": "https://i.ibb.co/jbSpZ63/Health-initiative.jpg",
+    "title": "Health Initiative",
+    "category": "Health",
+    "category_bg_color": "#ADD8E6",
+    "card_bg_color": "#ADD8E6",
+    "text_button_bg_color": "#0052FF",
+    "description": "This program focuses on the health and safety of rural farmers and agricultural workers. It includes initiatives to promote safe farming practices, provide regular health check-ups, and offer mental health support to address the unique challenges faced by those working in agriculture. ",
+    "price": 290
+  },
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co/7nwSQxb/Childhealth.jpg",
+    "title": "Child Health",
+    "category": "Health",
+    "category_bg_color": "#ADD8E6",
+    "card_bg_color": "#ADD8E6",
+    "text_button_bg_color": "#0052FF",
+    "description": "This program is dedicated to improving the health of mothers and children in rural areas. It involves setting up prenatal and postnatal care clinics, conducting educational workshops for expectant mothers, and distributing essential prenatal vitamins and nutritional supplements. We will also focus on improving vaccination rates for children and ensuring access to pediatric healthcare services.",
+    "price": 290
+  },
+  {
+    "id": 10,
+    "picture": "https://i.ibb.co/K6NWFvc/Basic-education.jpg",
+    "title": "Basic Education",
+    "category": "Education",
+    "category_bg_color": "#FFA1A4",
+    "card_bg_color": "#FFA1A4",
+    "text_button_bg_color": "#FF444A",
+    "description": "Project Literacy is a grassroots initiative dedicated to eradicating illiteracy among impoverished individuals. By offering adult literacy classes, vocational training, and community libraries, this program equips adults with the fundamental skills needed for better job prospects and improved quality of life.",
+    "price": 290
+  },
+  {
+    "id": 11,
+    "picture": "https://i.ibb.co/H4yHC6Z/warmth-all.jpg",
+    "title": "Warmth for All",
+    "category": "Clothing",
+    "category_bg_color": "#AEDA8B",
+    "card_bg_color": "#AEDA8B",
+    "text_button_bg_color": "#79C23F",
+    "description": "Warmth for All is a clothing program designed to help low-income families and individuals stay warm during the cold winter months. We collect winter coats, hats, gloves, and blankets and distribute them to those in need. With your support, we can ensure that everyone in our community can stay cozy and protected from the harsh elements.",
+    "price": 290
+  },
+  {
+    "id": 12,
+    "picture": "https://i.ibb.co/YZ3gpBw/food-box.jpg",
+    "title": "Monthly Food Box Drive",
+    "category": "Food",
+    "category_bg_color": "#FAA990",
+    "card_bg_color": "#FAA990",
+    "text_button_bg_color": "#F87147",
+    "description": "Help us in our mission to provide monthly food boxes to low-income families in need. Your support enables us to purchase essential groceries and distribute them to those facing financial hardship. Be a part of this initiative and help us bring relief and hope to families struggling to put food on the table.",
+    "price": 290
+  }
+]
